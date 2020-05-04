@@ -8,4 +8,4 @@ function drawEnemy(x, y, type) {
   
 }
  
-drawEnemy(1, 1, 2)
+drawEnemy(1, 1, 2);

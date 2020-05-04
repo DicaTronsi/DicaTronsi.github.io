@@ -1,4 +1,5 @@
 const context = canvas.getContext('2d');
+const canvas = document.getElementById('back');
 
 context.scale(20,20);
 
